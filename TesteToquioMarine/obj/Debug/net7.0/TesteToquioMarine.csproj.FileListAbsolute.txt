@@ -1,0 +1,70 @@
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/appsettings.json
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.exe
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.deps.json
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.runtimeconfig.json
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.pdb
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Refit.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Refit.HttpClientFactory.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.AssemblyReference.cache
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.AssemblyInfoInputs.cache
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.AssemblyInfo.cs
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.CoreCompileInputs.cache
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.TesteToquioMarine.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.build.TesteToquioMarine.props
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TesteToquioMarine.props
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TesteToquioMarine.props
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/scopedcss/bundle/TesteToquioMarine.styles.css
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.CopyComplete
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/refint/TesteToquioMarine.dll
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.pdb
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.genruntimeconfig.cache
+C:/Users/Breno/source/repos/TesteToquioMarine/obj/Debug/net7.0/ref/TesteToquioMarine.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/appsettings.Development.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/appsettings.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.deps.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.runtimeconfig.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/TesteToquioMarine.pdb
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Refit.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Refit.HttpClientFactory.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.AssemblyReference.cache
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.AssemblyInfoInputs.cache
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.AssemblyInfo.cs
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.CoreCompileInputs.cache
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.MvcApplicationPartsAssemblyInfo.cs
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.MvcApplicationPartsAssemblyInfo.cache
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.TesteToquioMarine.Microsoft.AspNetCore.StaticWebAssets.props
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.build.TesteToquioMarine.props
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TesteToquioMarine.props
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TesteToquioMarine.props
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.pack.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.build.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/staticwebassets.development.json
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/scopedcss/bundle/TesteToquioMarine.styles.css
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.csproj.CopyComplete
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/refint/TesteToquioMarine.dll
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.pdb
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/TesteToquioMarine.genruntimeconfig.cache
+/Applications/heitor.soares/Programacao - Mac/toquio-marine/TesteToquioMarine/obj/Debug/net7.0/ref/TesteToquioMarine.dll
